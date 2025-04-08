@@ -4,7 +4,7 @@
 The **Dynamic List Manager** is a web application that allows users to manage dynamic lists. It provides features such as adding, removing, and sorting items efficiently.
 
 ## 📸 Screenshot
-![App Screenshot](./public/vite.svg)  
+![App Screenshot](./public/image.png)  
 
 ## 🏃‍♂️ How to Run Locally
 1. Clone the repository:
